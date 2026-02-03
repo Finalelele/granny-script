@@ -1,2 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Finalelele/granny-script/refs/heads/main/granny%20script?token=GHSAT0AAAAAADO4HDCIZCMD7XYCR5LNYDMQ2J7VMVA"))()
+# Granny
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Finalelele/granny-script/refs/heads/main/granny%20script.lua"))()
 my own script
